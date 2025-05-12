@@ -24,4 +24,6 @@ Pinkoo is a parody application inspired by Stake, featuring a frontend built wit
 
 ### Demo Video
 
-[Watch the demo](./assets/plinkoo.mp4)
+<video width="600" controls>
+  <source src="./assets/plinkoo.mp4" type="video/mp4">
+</video>
